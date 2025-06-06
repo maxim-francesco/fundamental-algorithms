@@ -58,4 +58,4 @@ g++ assignment-01/main.cpp -o assignment1
 ./assignment1
 ```
 
-2. Output will include performance metrics printed to the console (or optionally saved as files).
+3. Output will include performance metrics printed to the console (or optionally saved as files).
