@@ -54,7 +54,7 @@ git clone https://github.com/maxim-francesco/fundamental-algorithms.git
 
 2. Compile and run a specific assignment:
 ```bash
-g++ assignment-01/main.cpp Profiler/profiler.cpp -o assignment1
+g++ assignment-01/main.cpp -o assignment1
 ./assignment1
 ```
 
